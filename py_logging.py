@@ -6,3 +6,5 @@ logger.warning("this is warn log")
 logger.info("this is info log")
 logger.critical("this is critical log")
 logger.error("this is an error !")
+
+
